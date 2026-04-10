@@ -347,7 +347,7 @@ const Header: React.FC = () => {
               </div>
             )}
 
-            {/* Carrito */}
+            {/* Carrito 
             <Link to="/cart" className="cart-btn group">
               <div className="relative">
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -376,7 +376,7 @@ const Header: React.FC = () => {
                 )}
               </div>
             </Link>
-
+*/}
             {/* Hamburguesa móvil */}
             <div className="lg:hidden relative" ref={mobileMenuRef}>
               <button
